@@ -125,12 +125,6 @@ This is Eric Hepperle's examples demonstrating he understands how to use E6
 JavaScript.
 */
 
-const html = document.querySelector('#ember598 > div > div > div > div > div.classroom-layout-panel-layout-main.classroom-layout-panel-layout__main > div:nth-child(2)');
-
-console.log(html);
-
-const myHtml = JSON.stringify(html);
-
 var data = {
   "data": {
     "x": "1",
@@ -143,7 +137,19 @@ var data = {
 }
 
 eh_div = document.createElement('div');
-eh_div.style.cssText = "min-height: 20px; background: #ffffb3; padding: 1em; margin-bottom: 2em; max-width: 80vw; border: solid gray; border-radius: .3rem; margin: 0 auto;";
+
+style = 
+`min-height: 20px;
+background: #ffffb3;
+padding: 1em;
+margin-bottom: 2em;
+max-width: 80vw;
+border: solid gray;
+border-radius: .3rem;
+margin: 0 auto;`;
+
+eh_div.style.cssText = style;
+
 var content = document.createTextNode(`${JSON.stringify(data)}`);
 eh_div.appendChild(content);
 
