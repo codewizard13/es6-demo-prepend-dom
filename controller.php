@@ -135,6 +135,7 @@ main {
 
 </div>
 
+<!-- Code Section Template
 <section class="ehw-code">
 <h3>Let, Arrow Functions, ForEach</h3>
 <pre>
@@ -177,16 +178,24 @@ var content =`${JSON.stringify(data)}`;
 // create a text node
 var text_node = document.createTextNode("hello");
 
-// click alert to show content
+// add text node to div
 eh_div.appendChild(text_node);
 
 // eh_div.innerHtml = "Hello!";
 
+// add div to body
 document.body.prepend(eh_div);
 
+// ----- Change Div Contents ---
 
+// use alert as 'continue' button
+alert("Click OK to continue");
 
+// define our content element handle
+const cont_el = document.querySelector('#ehw-content');
 
+// change content text
+cont_el.innerHTML = content;
 
 
 
