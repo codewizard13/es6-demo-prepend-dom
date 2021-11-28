@@ -167,6 +167,48 @@ var data = {
   "id": 50
 }
 
+
+const autos = {
+    "cars": [
+        {
+            "make": "Ford",
+            "model": "Mustang",
+            "year": 1979,
+        },
+        {
+            "make": "Ford",
+            "model": "Fiesta",
+            "year": 1987,
+        },
+        {
+            "make": "Chevy",
+            "model": "Malibu",
+            "year": 1979,
+        },
+    
+    ],
+    "trucks": [
+        {
+            "make": "Ford",
+            "model": "Mustang",
+            "year": 1979,
+        },
+        {
+            "make": "Ford",
+            "model": "Fiesta",
+            "year": 1987,
+        },
+        {
+            "make": "Chevy",
+            "model": "Malibu",
+            "year": 1979,
+        },    
+    ],
+}
+
+data = autos;
+
+
 // create new element
 eh_div = document.createElement('div');
 
@@ -196,6 +238,21 @@ const cont_el = document.querySelector('#ehw-content');
 cont_el.innerHTML = "<h4>Stringified JSON data</h4>";
 cont_el.innerHTML += content;
 
+// loop through and print out json data
+/*
+function appendData(data) {
+  var mainContainer = document.getElementById("myData");
+  for (var i = 0; i < data.length; i++) {
+    var div = document.createElement("div");
+    div.innerHTML = 'Name: ' + data[i].firstName + ' ' + data[i].lastName;
+    mainContainer.appendChild(div);
+  }
+}
+*/
+
+
+
+// appendData(content);
 
 
 
