@@ -85,7 +85,18 @@ main {
     border: solid 1px;
     border-radius: .6rem;
 }
-
+#ehw-content {
+    min-height: 20px;
+    background: rgb(255, 255, 179);
+    padding: 1em;
+    max-width: 1024px;
+    width: 80vw;
+    border: solid gray;
+    border-radius: 0.3rem;
+    margin: 0px auto;
+    margin-bottom: 1em;
+    box-shadow: 2px 2px 2px 1px lightgrey;    
+}
 </style>
 
 </head>
@@ -136,22 +147,22 @@ var data = {
   "id": 50
 }
 
+// create new element
 eh_div = document.createElement('div');
 
-style = 
-`min-height: 20px;
-background: #ffffb3;
-padding: 1em;
-margin-bottom: 2em;
-max-width: 80vw;
-border: solid gray;
-border-radius: .3rem;
-margin: 0 auto;`;
+// give class to element
+eh_div.id = "ehw-content";
 
-eh_div.style.cssText = style;
+// define content to display
+var content =`${JSON.stringify(data)}`;
 
-var content = document.createTextNode(`${JSON.stringify(data)}`);
-eh_div.appendChild(content);
+// create a text node
+var text_node = document.createTextNode("hello");
+
+// click alert to show content
+eh_div.appendChild(text_node);
+
+
 
 eh_div.innerHtml = "Hello!";
 document.body.prepend(eh_div);
