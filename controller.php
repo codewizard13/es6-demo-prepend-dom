@@ -1,10 +1,11 @@
 <?php // Define vars:
-$page_title = "EHW JavaScript ES6 SANDBOX";
+$page_title = "EHW JavaScript ES6 Demo: Add element to DOM (prepend)";
 
 ?>
 
 <!--
-Project Name:   EHW JavaScript ES6 SANDBOX 
+Project Name:   EHW JavaScript ES6 Demo: Add element to DOM (prepend)
+Proj Shortname: ES6: Prepend Element to DOM 
 Filename:       controller.php
 Date Created:   11/28/21
 Date Updated:   --
