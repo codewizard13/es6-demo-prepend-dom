@@ -113,8 +113,26 @@ main {
 
 <main>
 <div>
-This is Eric Hepperle's examples demonstrating he understands how to use E6
-JavaScript.
+<h3>PURPOSE:</h3>
+
+<p>This is a demo showing that Eric L Hepperle knows how to add an element to the top of the DOM.</p>
+
+<h3>STEPS:</h3>
+
+<p>These are the steps to prepend a div to the body. Note that prepending adds to top of page, whereas appending adds to bottom of page.</p>
+
+<ol>
+	<li>Define JSON object</li>
+	<li>Create new DIV element</li>
+	<li>Add id "ehw-content" to div</li>
+	<li>Create text node</li>
+	<li>Add text node to div (appendChild)</li>
+	<li>Prepend div to body</li>
+</ol>
+
+
+
+
 </div>
 
 <section class="ehw-code">
@@ -162,9 +180,8 @@ var text_node = document.createTextNode("hello");
 // click alert to show content
 eh_div.appendChild(text_node);
 
+// eh_div.innerHtml = "Hello!";
 
-
-eh_div.innerHtml = "Hello!";
 document.body.prepend(eh_div);
 
 
