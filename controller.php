@@ -97,6 +97,10 @@ main {
     margin-bottom: 1em;
     box-shadow: 2px 2px 2px 1px lightgrey;    
 }
+#ehw-content h4 {
+    margin-top: 0;
+}
+
 </style>
 
 </head>
@@ -129,9 +133,6 @@ main {
 	<li>Add text node to div (appendChild)</li>
 	<li>Prepend div to body</li>
 </ol>
-
-
-
 
 </div>
 
@@ -188,14 +189,13 @@ document.body.prepend(eh_div);
 
 // ----- Change Div Contents ---
 
-// use alert as 'continue' button
-alert("Click OK to continue");
-
 // define our content element handle
 const cont_el = document.querySelector('#ehw-content');
 
 // change content text
-cont_el.innerHTML = content;
+cont_el.innerHTML = "<h4>Stringified JSON data</h4>";
+cont_el.innerHTML += content;
+
 
 
 
