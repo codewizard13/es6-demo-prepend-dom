@@ -32,13 +32,13 @@
   </a>
 
 
-<h3 align="center">JavaScript ES6 Demo: Add element to DOM (prepend)</h3>
+<h1 align="center">JavaScript ES6 Demo: Add element to DOM (prepend)</h1>
 
 <section>
   <p align="center">
     This project is a demonstration of ES6 and modern JavaScript principles.
-    This is created as a "proof project" and specifically demonstates 
-    Eric L. Hepperle's JavaScript knowledge and skills.
+    This is created as a "proof project" and specifically demonstates<br>
+    <strong>Eric L. Hepperle's</strong> JavaScript knowledge and skills.
     <br />
     <a href="https://github.com/codewizard13/es6-demo-prepend-dom"><strong>Explore the docs »</strong></a>
     <br />
@@ -49,9 +49,10 @@
     ·
     <a href="https://github.com/codewizard13/es6-demo-prepend-dom/issues">Request Feature</a>
   </p>
+
+<!-- TAGS -->
+**TAGS:** `Eric L. Hepperle`   `Eric Hepperle`   `Vanilla JavaScript`   `ES6`   `DOM Manipulation`   `Demo`   `Code Sample`
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -82,10 +83,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<!-- TAGS -->
-## Tags
-`Eric L. Hepperle`   `Eric Hepperle`   `Vanilla JavaScript`   `ES6`   `DOM Manipulation`   `Demo`   `Code Sample`
-
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 ### JavaScript & Programming Concepts
@@ -111,8 +108,6 @@ Thanks for checking out my demo!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 ### Built With
 
 * [Next.js](https://nextjs.org/)
@@ -125,8 +120,6 @@ Thanks for checking out my demo!
 * [JQuery](https://jquery.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -163,18 +156,11 @@ This is an example of how to list things you need to use the software and how to
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- USAGE EXAMPLES -->
 ## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+Launch in browser and open developer console (F12).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- ROADMAP -->
 ## Roadmap
