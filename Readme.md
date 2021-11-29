@@ -224,5 +224,5 @@ Project Link: [https://github.com/codewizard13/es6-demo-prepend-dom](https://git
 [license-shield]: https://img.shields.io/github/license/codewizard13/es6-demo-prepend-dom.svg?style=for-the-badge
 [license-url]: https://github.com/codewizard13/es6-demo-prepend-dom/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png
+[linkedin-url]: https://linkedin.com/in/erichepperle
+[product-screenshot]: /images/screenshot.png
