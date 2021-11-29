@@ -84,22 +84,22 @@
 
 This project is a demonstration of ES6 and modern JavaScript principles. This is created as a "proof project" and specifically demonstates Eric L. Hepperle's JavaScript knowledge and skills including:
 
-Create JavaScript objects
-Array of objects
-Use var, const, let
-Create DOM elements with document.createElement()
-Set element ID property
-Create text node with document.createTextNode()
-Add text node to element with appendChild()
-Store JSON object as string with JSON.stringify()
-Add element to top of page with document.body.prepend()
-Select single element with document.querySelector()
-Concatenate output with +=
-Create JavaScript functions
-Pass arguments to functions
-Get indexes as array for array of objects with Object.keys() 
-Output to console with console.log()
-Loop through array with for loop
+* Create JavaScript objects
+* Array of objects
+* Use var, const, let
+* Create DOM elements with document.createElement()
+* Set element ID property
+* Create text node with document.createTextNode()
+* Add text node to element with appendChild()
+* Store JSON object as string with JSON.stringify()
+* Add element to top of page with document.body.prepend()
+* Select single element with document.querySelector()
+* Concatenate output with +=
+* Create JavaScript functions
+* Pass arguments to functions
+* Get indexes as array for array of objects with Object.keys() 
+* Output to console with console.log()
+* Loop through array with for loop
 
 Purpose: 
 HTML/PHP based sandbox to test web code. This is a demo for testing
