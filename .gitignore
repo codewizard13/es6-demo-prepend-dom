@@ -23,9 +23,9 @@ $RECYCLE.BIN/
 
 # Images & Binaries #
 #####################
-*.jpg
-*.gif
-*.png
+#*.jpg
+#*.gif
+#*.png
 
 # Compiled source #
 ###################
