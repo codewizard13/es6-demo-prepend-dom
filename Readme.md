@@ -45,11 +45,10 @@
     ·
     <a href="https://github.com/codewizard13/es6-demo-prepend-dom/issues">Request Feature</a>
   </p>
+  
 <!-- TAGS -->
 **TAGS:** `Eric L. Hepperle`   `Eric Hepperle`   `Vanilla JavaScript`   `ES6`   `DOM Manipulation`   `Demo`   `Code Sample`
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 
@@ -123,7 +122,8 @@ This is an example of how to list things you need to use the software and how to
   ```sh
   npm install npm@latest -g
   ```
-
+<img src="https://cdn.pixabay.com/photo/2017/06/16/07/26/under-construction-2408062_1280.png" alt="This Readme is Under Construction" style="zoom:50%;" />
+  
 ### Installation
 
 1. Get a free API Key at [https://example.com](https://example.com)
