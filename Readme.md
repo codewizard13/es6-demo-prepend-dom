@@ -84,9 +84,7 @@
 
 <!-- TAGS -->
 ## Tags
-<section align="center">
 `Eric L. Hepperle`   `Eric Hepperle`   `Vanilla JavaScript`   `ES6`   `DOM Manipulation`   `Demo`   `Code Sample`
-</section>
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
