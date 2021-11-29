@@ -33,6 +33,11 @@
 
 <h3 align="center">JavaScript ES6 Demo: Add element to DOM (prepend)</h3>
 
+<style>
+section p {
+    margin: 0 !important;
+}
+</style>
 <section>
     <p align="center">This project is a demonstration of ES6 and modern JavaScript principles.</p>
     <p align="center">This is created as a "proof project" and specifically demonstates </p>
