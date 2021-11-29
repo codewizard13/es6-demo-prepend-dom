@@ -5,8 +5,6 @@
 *** https://github.com/othneildrew/Best-README-Template
 -->
 
-
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -21,8 +19,6 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -104,14 +100,10 @@
 
 Thanks for checking out my demo!
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ### Built With
 
 * [Vanilla JavaScript](https://thisinterestsme.com/vanilla-javascript/)
 * [JavaScript ES6](https://exploringjs.com/es6/)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -146,16 +138,14 @@ This is an example of how to list things you need to use the software and how to
    const API_KEY = 'ENTER YOUR API';
    ```
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 Launch in browser and open developer console (F12).
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 <!-- ROADMAP -->
 ## Roadmap
+
+[[Coming Soon!]]
 
 - [] Feature 1
 - [] Feature 2
@@ -163,10 +153,6 @@ Launch in browser and open developer console (F12).
     - [] Nested Feature
 
 See the [open issues](https://github.com/codewizard13/es6-demo-prepend-dom/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -182,16 +168,10 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
@@ -202,8 +182,6 @@ Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_
 
 Project Link: [https://github.com/codewizard13/es6-demo-prepend-dom](https://github.com/codewizard13/es6-demo-prepend-dom)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- ACKNOWLEDGMENTS -->
@@ -212,8 +190,6 @@ Project Link: [https://github.com/codewizard13/es6-demo-prepend-dom](https://git
 * []()
 * []()
 * []()
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
