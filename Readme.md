@@ -27,9 +27,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/codewizard13/es6-demo-prepend-dom">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://erichepperle.com">
+    <img src="https://erichepperle.com/wp-content/uploads/2021/11/ehd_logo_20211109_EHW_Long_LogoMakr_01-200x29.png" alt="Logo">
   </a>
+
 
 <h3 align="center">JavaScript ES6 Demo: Add element to DOM (prepend)</h3>
 
@@ -78,11 +79,12 @@
   </ol>
 </details>
 
-<!-- TAGS -->
-## Tags
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+
+<!-- TAGS -->
+## Tags
+`Eric L. Hepperle`   `Eric Hepperle`   `Vanilla JavaScript`   `ES6`   `DOM Manipulation`   `Demo`   `Code Sample`
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
