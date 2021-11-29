@@ -31,7 +31,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">EHW JavaScript ES6 Demo: Add element to DOM (prepend)</h3>
+<h3 align="center">JavaScript ES6 Demo: Add element to DOM (prepend)</h3>
 
   <p align="center">
     project_description
@@ -82,7 +82,49 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `codewizard13`, `es6-demo-prepend-dom`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `project_title`, `project_description`
+This project is a demonstration of ES6 and modern JavaScript principles. This is created as a "proof project" and specifically demonstates Eric L. Hepperle's JavaScript knowledge and skills including:
+
+Create JavaScript objects
+Array of objects
+Use var, const, let
+Create DOM elements with document.createElement()
+Set element ID property
+Create text node with document.createTextNode()
+Add text node to element with appendChild()
+Store JSON object as string with JSON.stringify()
+Add element to top of page with document.body.prepend()
+Select single element with document.querySelector()
+Concatenate output with +=
+Create JavaScript functions
+Pass arguments to functions
+Get indexes as array for array of objects with Object.keys() 
+Output to console with console.log()
+Loop through array with for loop
+
+Purpose: 
+HTML/PHP based sandbox to test web code. This is a demo for testing
+JavaScript. The project folder must live on a web server, local or remote.
+
+Usage:
+Launch in browser and open developer console.
+
+Requires:
+* Browser
+* Web server supporting PHP 7.4
+
+Demonstrates:
+* ES6 Arrow Functions
+* Map, Reduce, Filter, Find
+* Promises, Closures, Anonymous Functions
+* SetTimeout, Timers,
+* Const, Let, Var
+* For-in, For-of, ForEach
+* Continue, Break, Switch-Case
+
+Tags:
+ES6, arrow functions
+
+Thanks for checking out my demo!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
