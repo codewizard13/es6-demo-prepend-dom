@@ -81,8 +81,8 @@ public/assets/
 
 # Eric's ignores (11/29/21)
 .git/
-pix/
-_pix/
-images/
-_images/
+#pix/
+#_pix/
+#images/
+#_images/
 
