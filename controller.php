@@ -8,7 +8,7 @@ Project Name:   EHW JavaScript ES6 Demo: Add element to DOM (prepend)
 Proj Shortname: ES6: Prepend Element to DOM 
 Filename:       controller.php
 Date Created:   11/28/21
-Date Updated:   --
+Date Updated:   11/29/21
 Programmer:     Eric Hepperle
 
 Purpose: 
@@ -50,58 +50,9 @@ ES6, arrow functions
 <title><?php echo $page_title; ?></title>
 
 
-<link rel="stylesheet" href="/">
+<link rel="stylesheet" href="style/main.css">
 
-<style>
-#wrapper {
-    margin: 0 auto;
-    background: #536e1d;
-    max-width: 1024px;
-    border: solid 1px #898484;
-    padding: 1em;
-}
-#ehw-top-head {
-    color: white;
-}
-#ehw-top-head h2 {
-    color: chartreuse;    
-}
-#ehw-top-head .property {
-    opacity: .5;
-}
-
-main {
-    background: #fffbe3;
-    min-height: 2em;
-    border: solid gray 2px;
-    padding: .4em 1em;
-    overflow: hidden;
-
-}
-.ehw-code pre {
-    color: green;
-    background: #f9f9f9;
-    padding: .6rem;
-    border: solid 1px;
-    border-radius: .6rem;
-}
-#ehw-content {
-    min-height: 20px;
-    background: rgb(255, 255, 179);
-    padding: 1em;
-    max-width: 1024px;
-    width: 80vw;
-    border: solid gray;
-    border-radius: 0.3rem;
-    margin: 0px auto;
-    margin-bottom: 1em;
-    box-shadow: 2px 2px 2px 1px lightgrey;    
-}
-#ehw-content h4 {
-    margin-top: 0;
-}
-
-</style>
+<!--<style></style>-->
 
 </head>
 
