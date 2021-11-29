@@ -84,9 +84,7 @@
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-### JavaScript & Programming Concepts
-
+## JavaScript & Programming Concepts Demonstrated
 * Create JavaScript objects
 * Array of objects
 * Use `var`, `const`, `let`
@@ -110,14 +108,8 @@ Thanks for checking out my demo!
 
 ### Built With
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [Vanilla JavaScript](https://thisinterestsme.com/vanilla-javascript/)
+* [JavaScript ES6](https://exploringjs.com/es6/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
