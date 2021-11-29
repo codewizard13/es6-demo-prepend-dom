@@ -33,10 +33,10 @@
 
 <h3 align="center">JavaScript ES6 Demo: Add element to DOM (prepend)</h3>
 
-  <p align="center">
-This project is a demonstration of ES6 and modern JavaScript principles.
-This is created as a "proof project" and specifically demonstates 
-Eric L. Hepperle's JavaScript knowledge and skills.
+<section>
+    <p align="center">This project is a demonstration of ES6 and modern JavaScript principles.</p>
+    <p align="center">This is created as a "proof project" and specifically demonstates </p>
+    <p align="center">Eric L. Hepperle's JavaScript knowledge and skills.</p>
     <br />
     <a href="https://github.com/codewizard13/es6-demo-prepend-dom"><strong>Explore the docs »</strong></a>
     <br />
@@ -46,7 +46,7 @@ Eric L. Hepperle's JavaScript knowledge and skills.
     <a href="https://github.com/codewizard13/es6-demo-prepend-dom/issues">Report Bug</a>
     ·
     <a href="https://github.com/codewizard13/es6-demo-prepend-dom/issues">Request Feature</a>
-  </p>
+</section>
 </div>
 
 
