@@ -75,7 +75,8 @@
   </ol>
 </details>
 
-
+<!-- TAGS -->
+## Tags
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -102,21 +103,6 @@ This project is a demonstration of ES6 and modern JavaScript principles. This is
 * Get indexes as array for array of objects with `Object.keys()`
 * Output to console with `console.log()`
 * Loop through array with `for loop`
-
-Purpose: 
-HTML/PHP based sandbox to test web code. This is a demo for testing
-JavaScript. The project folder must live on a web server, local or remote.
-
-Usage:
-Launch in browser and open developer console.
-
-Requires:
-* Browser
-* Web server supporting PHP 7.4
-
-
-Tags:
-ES6, arrow functions
 
 Thanks for checking out my demo!
 
@@ -146,6 +132,9 @@ This is an example of how you may give instructions on setting up your project l
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+
+* Browser
+* Web server supporting PHP 7.4
 
 This is an example of how to list things you need to use the software and how to install them.
 * npm
